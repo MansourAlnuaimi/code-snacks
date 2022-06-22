@@ -18,7 +18,7 @@ int main(void)
             double numerator = pow(x, power) * negative_one;
 
             double function = numerator / denominator;
-            answer += (function);
+            answer += function;
         }
     }
     
