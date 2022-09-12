@@ -10,7 +10,6 @@ def main():
                 hex_letter = ord(in_number[i].upper()) - 55
                 dec_value += hex_letter * (base ** position)
             elif in_number[i].isnumeric(): dec_value += int(in_number[i]) * (base ** position)
-            else: print("Invalid HEX number")
             i += 1
     else:
         while i <= num_length - 1:
@@ -21,6 +20,5 @@ def main():
     another_number = input("Another number (y/n)? ").lower()
     if another_number == 'y': main()
     else: pass
-
 
 if __name__ == '__main__': main()
