@@ -4,7 +4,7 @@ symbols = ['*', '@', '#', '$', '%', '^', '&', '_', '+', '=']
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j',
            'k', 'l', 'm','n','o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 animals = ['cat', 'lion', 'dog', 'fish', 'cow', 'bull', 'goat', 'ant', 'fly', 'ape', 'frog', 'crab', 'bee']
-adjectives = ['huge', 'tiny', 'red', 'gold', 'green', 'ugly', 'greedy', 'evil', 'good', 'nice', 'happy', 'sad', 'angry']
+adjectives = ['huge', 'tiny', 'red', 'gold', 'blue', 'ugly', 'fast', 'evil', 'good', 'nice', 'fat', 'sad', 'fool']
 stop = 'text'
 while stop != '0':
     password = random.choice(letters).upper() + random.choice(letters).lower() + random.choice(numbers) \
