@@ -1,3 +1,4 @@
+# to use it online, go to https://onlinegdb.com/c7LP2p61qr
 import random
 numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['*', '@', '#', '$', '%', '^', '&', '_', '+', '=']
