@@ -8,3 +8,5 @@ Note that the program cannot calculate values of x that aren't from the interval
 > A program that takes the inputted number in any base-b, then it converts it to decimal (base-10)
 3. [Password generator](https://github.com/MansourAlnuaimi/code-snacks/blob/main/password_generator.py)
 > A program that generates passords with uppercase and lower case letters, symbols, numbers, and even adjectives and animals. The password's length is usually between 18 and 19 characters.
+4. [Vowel counter](https://github.com/MansourAlnuaimi/code-snacks/blob/main/vowel_counter.py)
+> A program that counts the vowels in a given string and outputs total vowels and how many each vowel appeared.
