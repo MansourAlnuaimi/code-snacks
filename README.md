@@ -10,3 +10,5 @@ Note that the program cannot calculate values of x that aren't from the interval
 > A program that generates passords with specified length from the user. the password contains uppercase and lower case letters, symbols, numbers.
 4. [Tile calculator](https://github.com/MansourAlnuaimi/code-snacks/blob/main/tile.py)
 > A program that calculate how many tiles your room will need, based on the room's and tile's dimensions.
+5. [Random decider](https://github.com/MansourAlnuaimi/code-snacks/blob/main/random_decider.py)
+> If you are stuck between many option, this program will select randomly one of the choices.
